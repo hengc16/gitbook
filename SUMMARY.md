@@ -46,12 +46,12 @@
 
 ## DFS
 
-* [DFS 总结](dfs/dfs-zong-jie.md)
-* [DFS I](dfs/dfs-i/README.md)
-  * [62. All Subsets I](dfs/dfs-i/62.-all-subsets-i.md)
-  * [66. All Valid Permutations Of Parentheses I](dfs/dfs-i/66.-all-valid-permutations-of-parentheses-i.md)
-  * [64. All Permutations I](dfs/dfs-i/64.-all-permutations-i.md)
-  * [73. Combinations Of Coins](dfs/dfs-i/73.-combinations-of-coins.md)
+* [DFS 总结](dfs/dfs-zong-jie/README.md)
+  * [DFS I](dfs/dfs-zong-jie/dfs-i/README.md)
+    * [62. All Subsets I](dfs/dfs-zong-jie/dfs-i/62.-all-subsets-i.md)
+    * [66. All Valid Permutations Of Parentheses I](dfs/dfs-zong-jie/dfs-i/66.-all-valid-permutations-of-parentheses-i.md)
+    * [64. All Permutations I](dfs/dfs-zong-jie/dfs-i/64.-all-permutations-i.md)
+    * [73. Combinations Of Coins](dfs/dfs-zong-jie/dfs-i/73.-combinations-of-coins.md)
 * [63. All Subsets II（sub-sequence）](dfs/63.-all-subsets-ii-sub-sequence.md)
 * [155. Combinations](dfs/155.-combinations.md)
 * [233. N Queens](dfs/233.-n-queens.md)

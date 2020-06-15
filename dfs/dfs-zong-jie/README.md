@@ -18,7 +18,7 @@
 
 subset 是
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 1. **找出所有subset**
    1. 每层加与不加，找出所有可能性
@@ -29,7 +29,7 @@ subset 是
 
 ### Parenthesis problems:
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 1. 打印所有possible permutation of given parenthesis。 
 
@@ -38,7 +38,7 @@ subset 是
 
 ### Coins:
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 1. 给你一个number，问用着4种coins有多少种方法可以拼出这个number
 
@@ -60,7 +60,7 @@ subset 是
 
  
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 这里每一层里 从 【0 当前层\)的element都已经确定了。  不确定的是【当前层 到n-1】的剩余位置。
 
