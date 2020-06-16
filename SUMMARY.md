@@ -16,9 +16,9 @@
 
 ## sorting
 
-* [sorting 总结](sorting/sorting-zong-jie.md)
-* [4. Selection Sort](sorting/4.-selection-sort.md)
-* [Untitled](sorting/untitled.md)
+* [sorting 总结](sorting/sorting-zong-jie/README.md)
+  * [Untitled](sorting/sorting-zong-jie/untitled.md)
+  * [4. Selection Sort](sorting/sorting-zong-jie/4.-selection-sort.md)
 
 ## String
 
