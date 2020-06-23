@@ -42,13 +42,13 @@ Just want to confirm if my understanding is correct, if with input String "ab\_c
 
 * algorithm: sliding window 
 * data structure: HashMap, where key is the element, value is the element's index.
-* High level: use hashmap as our sliding window container, \[i, j\). iterate the array, fill the window with the longest unreapted substring.
+* High level: use hashmap as our sliding window container, \[i, j\). iterate the array, fill the window with the longest unrepeated substring.
 * mid level: The semantic of \[i,j\)
   * we use i as the left boundary of the window. It records the beginning element of this substring.
   * we use j as the point to iterate the array, for all the elements from i to j - 1 should be unique
   * The reason to use hashmap is because when we face a repeated character\(j'\), we can use the Entry to find the index of first seen element in the hashmap\(j\),  if the index is within the current window, then shift the left bounder of the window to j + 1. 
 * Time complexity: O\(n\) 
-* Space complexity: O\(min\(m,n\)\)  n represent the array length, m represent the 26 alphabet. 
+* Space complexity: O\(min\(m,n\)\)  n represents the array length, m represents the 26 alphabets. 
 
 ### Code:
 
