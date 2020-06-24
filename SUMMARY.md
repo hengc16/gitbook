@@ -31,8 +31,8 @@
 
 ## Binary Search Tree <a id="bst"></a>
 
-* [213. Reconstruct Binary Tree With Preorder And Inorder](bst/untitled-1.md)
 * [215. Reconstruct Binary Tree With Levelorder And Inorder](bst/215.-reconstruct-binary-tree-with-levelorder-and-inorder.md)
+* [213. Reconstruct Binary Tree With Preorder And Inorder](bst/untitled-1.md)
 
 ## Heap & BFS <a id="bfs"></a>
 
@@ -44,6 +44,9 @@
 ## Binary Tree
 
 * [128. Lowest Common Ancestor III](binary-tree/128.-lowest-common-ancestor-iii.md)
+* [Tree Traverse](binary-tree/tree-traverse/README.md)
+  * [655. Pre-order Traversal Of Binary Tree \(iterative\)](binary-tree/tree-traverse/655.-pre-order-traversal-of-binary-tree-iterative.md)
+  * [43. In-order Traversal Of Binary Tree \(iterative\)](binary-tree/tree-traverse/43.-in-order-traversal-of-binary-tree-iterative.md)
 
 ## DFS
 
