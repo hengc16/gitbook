@@ -43,6 +43,7 @@
 
 ## Binary Tree
 
+* [46. Check If Binary Tree Is Balanced](binary-tree/46.-check-if-binary-tree-is-balanced.md)
 * [128. Lowest Common Ancestor III](binary-tree/128.-lowest-common-ancestor-iii.md)
 * [Tree Traverse](binary-tree/tree-traverse/README.md)
   * [655. Pre-order Traversal Of Binary Tree \(iterative\)](binary-tree/tree-traverse/655.-pre-order-traversal-of-binary-tree-iterative.md)
