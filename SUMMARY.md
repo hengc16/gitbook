@@ -43,6 +43,9 @@
 
 ## Binary Tree
 
+* [Reconstruct Binary Tree](binary-tree/reconstruct-binary-tree/README.md)
+  * [214. Reconstruct Binary Tree With Postorder And Inorder](binary-tree/reconstruct-binary-tree/214.-reconstruct-binary-tree-with-postorder-and-inorder.md)
+  * [213. Reconstruct Binary Tree With Preorder And Inorder](binary-tree/reconstruct-binary-tree/213.-reconstruct-binary-tree-with-preorder-and-inorder.md)
 * [46. Check If Binary Tree Is Balanced](binary-tree/46.-check-if-binary-tree-is-balanced.md)
 * [47. Check If Binary Tree Is Completed](binary-tree/47.-check-if-binary-tree-is-completed.md)
 * [128. Lowest Common Ancestor III](binary-tree/128.-lowest-common-ancestor-iii.md)
