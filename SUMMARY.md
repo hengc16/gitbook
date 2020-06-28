@@ -46,6 +46,7 @@
 * [46. Check If Binary Tree Is Balanced](binary-tree/46.-check-if-binary-tree-is-balanced.md)
 * [47. Check If Binary Tree Is Completed](binary-tree/47.-check-if-binary-tree-is-completed.md)
 * [128. Lowest Common Ancestor III](binary-tree/128.-lowest-common-ancestor-iii.md)
+* [298. Vertical List Of Binary Tree](binary-tree/298.-vertical-list-of-binary-tree.md)
 * [Tree View questions](binary-tree/tree-view-questions/README.md)
   * [297. Top View Of Binary Tree](binary-tree/tree-view-questions/297.-top-view-of-binary-tree.md)
   * [296. Right View Of Binary Tree](binary-tree/tree-view-questions/296.-right-view-of-binary-tree.md)
