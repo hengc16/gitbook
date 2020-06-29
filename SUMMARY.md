@@ -49,7 +49,6 @@
 * [46. Check If Binary Tree Is Balanced](binary-tree/46.-check-if-binary-tree-is-balanced.md)
 * [47. Check If Binary Tree Is Completed](binary-tree/47.-check-if-binary-tree-is-completed.md)
 * [128. Lowest Common Ancestor III](binary-tree/128.-lowest-common-ancestor-iii.md)
-* [298. Vertical List Of Binary Tree](binary-tree/298.-vertical-list-of-binary-tree.md)
 * [Tree View questions](binary-tree/tree-view-questions/README.md)
   * [297. Top View Of Binary Tree](binary-tree/tree-view-questions/297.-top-view-of-binary-tree.md)
   * [296. Right View Of Binary Tree](binary-tree/tree-view-questions/296.-right-view-of-binary-tree.md)
@@ -60,6 +59,7 @@
   * [43. In-order Traversal Of Binary Tree \(iterative\)](binary-tree/tree-traverse/43.-in-order-traversal-of-binary-tree-iterative.md)
   * [45. Post-order Traversal Of Binary Tree \(iterative\)](binary-tree/tree-traverse/45.-post-order-traversal-of-binary-tree-iterative.md)
   * [426. Binary Tree Vertical Order Traversal](binary-tree/tree-traverse/426.-binary-tree-vertical-order-traversal.md)
+  * [298. Vertical List Of Binary Tree](binary-tree/tree-traverse/298.-vertical-list-of-binary-tree.md)
   * [Binary Tree Layer By Layer Zig-Zag Order](binary-tree/tree-traverse/binary-tree-layer-by-layer-zig-zag-order.md)
 
 ## DFS
