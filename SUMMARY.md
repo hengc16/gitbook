@@ -31,6 +31,7 @@
 
 ## Binary Search Tree <a id="bst"></a>
 
+* [54. Is Binary Search Tree Or Not](bst/54.-is-binary-search-tree-or-not.md)
 * [215. Reconstruct Binary Tree With Levelorder And Inorder](bst/215.-reconstruct-binary-tree-with-levelorder-and-inorder.md)
 * [213. Reconstruct Binary Tree With Preorder And Inorder](bst/untitled-1.md)
 
