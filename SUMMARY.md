@@ -43,12 +43,16 @@
 
 ## Binary Tree
 
+* [others](binary-tree/others/README.md)
+  * [512. Binary Tree Longest Consecutive Sequence](binary-tree/others/512.-binary-tree-longest-consecutive-sequence.md)
+* [Tree checking](binary-tree/tree-checking/README.md)
+  * [47. Check If Binary Tree Is Completed](binary-tree/tree-checking/47.-check-if-binary-tree-is-completed.md)
+  * [46. Check If Binary Tree Is Balanced](binary-tree/tree-checking/46.-check-if-binary-tree-is-balanced.md)
 * [Reconstruct Binary Tree](binary-tree/reconstruct-binary-tree/README.md)
   * [214. Reconstruct Binary Tree With Postorder And Inorder](binary-tree/reconstruct-binary-tree/214.-reconstruct-binary-tree-with-postorder-and-inorder.md)
   * [213. Reconstruct Binary Tree With Preorder And Inorder](binary-tree/reconstruct-binary-tree/213.-reconstruct-binary-tree-with-preorder-and-inorder.md)
-* [46. Check If Binary Tree Is Balanced](binary-tree/46.-check-if-binary-tree-is-balanced.md)
-* [47. Check If Binary Tree Is Completed](binary-tree/47.-check-if-binary-tree-is-completed.md)
-* [128. Lowest Common Ancestor III](binary-tree/128.-lowest-common-ancestor-iii.md)
+* [LCA](binary-tree/lca/README.md)
+  * [128. Lowest Common Ancestor III](binary-tree/lca/128.-lowest-common-ancestor-iii.md)
 * [Tree View questions](binary-tree/tree-view-questions/README.md)
   * [297. Top View Of Binary Tree](binary-tree/tree-view-questions/297.-top-view-of-binary-tree.md)
   * [296. Right View Of Binary Tree](binary-tree/tree-view-questions/296.-right-view-of-binary-tree.md)
