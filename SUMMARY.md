@@ -32,6 +32,7 @@
 ## Binary Search Tree <a id="bst"></a>
 
 * [666. In-order Successor in BST](bst/666.-in-order-successor-in-bst.md)
+* [136. Largest Number Smaller In Binary Search Tree](bst/136.-largest-number-smaller-in-binary-search-tree.md)
 * [135. Closest Number In Binary Search Tree](bst/135.-closest-number-in-binary-search-tree.md)
 * [54. Is Binary Search Tree Or Not](bst/54.-is-binary-search-tree-or-not.md)
 * [215. Reconstruct Binary Tree With Levelorder And Inorder](bst/215.-reconstruct-binary-tree-with-levelorder-and-inorder.md)
