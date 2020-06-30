@@ -31,12 +31,12 @@
 
 ## Binary Search Tree <a id="bst"></a>
 
-* [666. In-order Successor in BST](bst/666.-in-order-successor-in-bst.md)
-* [136. Largest Number Smaller In Binary Search Tree](bst/136.-largest-number-smaller-in-binary-search-tree.md)
-* [135. Closest Number In Binary Search Tree](bst/135.-closest-number-in-binary-search-tree.md)
+* [210. Reconstruct Binary Search Tree With Preorder Traversal](bst/210.-reconstruct-binary-search-tree-with-preorder-traversal.md)
+* [binary search alike questions](bst/binary-search-alike-questions/README.md)
+  * [135. Closest Number In Binary Search Tree](bst/binary-search-alike-questions/135.-closest-number-in-binary-search-tree.md)
+  * [136. Largest Number Smaller In Binary Search Tree](bst/binary-search-alike-questions/136.-largest-number-smaller-in-binary-search-tree.md)
+  * [666. In-order Successor in BST](bst/binary-search-alike-questions/666.-in-order-successor-in-bst.md)
 * [54. Is Binary Search Tree Or Not](bst/54.-is-binary-search-tree-or-not.md)
-* [215. Reconstruct Binary Tree With Levelorder And Inorder](bst/215.-reconstruct-binary-tree-with-levelorder-and-inorder.md)
-* [213. Reconstruct Binary Tree With Preorder And Inorder](bst/untitled-1.md)
 
 ## Heap & BFS <a id="bfs"></a>
 
@@ -53,6 +53,8 @@
   * [47. Check If Binary Tree Is Completed](binary-tree/tree-checking/47.-check-if-binary-tree-is-completed.md)
   * [46. Check If Binary Tree Is Balanced](binary-tree/tree-checking/46.-check-if-binary-tree-is-balanced.md)
 * [Reconstruct Binary Tree](binary-tree/reconstruct-binary-tree/README.md)
+  * [215. Reconstruct Binary Tree With Levelorder And Inorder](binary-tree/reconstruct-binary-tree/215.-reconstruct-binary-tree-with-levelorder-and-inorder.md)
+  * [213. Reconstruct Binary Tree With Preorder And Inorder](binary-tree/reconstruct-binary-tree/untitled-1.md)
   * [214. Reconstruct Binary Tree With Postorder And Inorder](binary-tree/reconstruct-binary-tree/214.-reconstruct-binary-tree-with-postorder-and-inorder.md)
   * [213. Reconstruct Binary Tree With Preorder And Inorder](binary-tree/reconstruct-binary-tree/213.-reconstruct-binary-tree-with-preorder-and-inorder.md)
 * [LCA](binary-tree/lca/README.md)
