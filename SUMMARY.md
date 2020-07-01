@@ -58,6 +58,7 @@
   * [214. Reconstruct Binary Tree With Postorder And Inorder](binary-tree/reconstruct-binary-tree/214.-reconstruct-binary-tree-with-postorder-and-inorder.md)
   * [213. Reconstruct Binary Tree With Preorder And Inorder](binary-tree/reconstruct-binary-tree/213.-reconstruct-binary-tree-with-preorder-and-inorder.md)
 * [LCA](binary-tree/lca/README.md)
+  * [126. Lowest Common Ancestor I](binary-tree/lca/126.-lowest-common-ancestor-i.md)
   * [128. Lowest Common Ancestor III](binary-tree/lca/128.-lowest-common-ancestor-iii.md)
 * [Tree View questions](binary-tree/tree-view-questions/README.md)
   * [297. Top View Of Binary Tree](binary-tree/tree-view-questions/297.-top-view-of-binary-tree.md)
