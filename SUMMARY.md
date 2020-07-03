@@ -27,7 +27,8 @@
 
 ## Linked List
 
-* [Untitled](linked-list/untitled.md)
+* [41. ReOrder Linked List](linked-list/41.-reorder-linked-list.md)
+* [34. Reverse Linked List](linked-list/untitled.md)
 
 ## Binary Search Tree <a id="bst"></a>
 
