@@ -101,3 +101,7 @@
 
 * [Untitled](two-pointers/untitled.md)
 
+## 数据结构
+
+* [稀疏数组（sparse array）](shu-ju-jie-gou/xi-shu-shu-zu-sparse-array.md)
+
