@@ -104,4 +104,5 @@
 ## 数据结构
 
 * [稀疏数组（sparse array）](shu-ju-jie-gou/xi-shu-shu-zu-sparse-array.md)
+* [stack（栈）](shu-ju-jie-gou/stack-zhan.md)
 
