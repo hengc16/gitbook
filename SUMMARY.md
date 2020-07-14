@@ -20,6 +20,7 @@
   * [bubble sort](sorting/sorting-zong-jie/untitled.md)
   * [4. Selection Sort](sorting/sorting-zong-jie/4.-selection-sort.md)
   * [insertion sort](sorting/sorting-zong-jie/insertion-sort.md)
+  * [shell sort](sorting/sorting-zong-jie/shell-sort.md)
 
 ## String
 
