@@ -21,6 +21,8 @@
   * [4. Selection Sort](sorting/sorting-zong-jie/4.-selection-sort.md)
   * [insertion sort](sorting/sorting-zong-jie/insertion-sort.md)
   * [shell sort](sorting/sorting-zong-jie/shell-sort.md)
+  * [QuickSort](sorting/sorting-zong-jie/quicksort.md)
+  * [MergeSort](sorting/sorting-zong-jie/mergesort.md)
 
 ## String
 
