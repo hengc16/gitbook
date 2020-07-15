@@ -22,6 +22,8 @@ a stable sorting is two object with equal key appear in the same order in output
 
 stable sorting algorithm: bubble sort, insertion sort, merge sort, count sort, etc. 
 
+![](../../.gitbook/assets/image%20%2823%29.png)
+
 
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
