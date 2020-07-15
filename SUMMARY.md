@@ -23,6 +23,7 @@
   * [shell sort](sorting/sorting-zong-jie/shell-sort.md)
   * [QuickSort](sorting/sorting-zong-jie/quicksort.md)
   * [MergeSort](sorting/sorting-zong-jie/mergesort.md)
+  * [radix sort \|\| bucket sort](sorting/sorting-zong-jie/radix-sort-or-or-bucket-sort.md)
 
 ## String
 
