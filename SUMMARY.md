@@ -48,6 +48,7 @@
 ## Heap & BFS <a id="bfs"></a>
 
 * [BFS总结](bfs/bfs-zong-jie.md)
+* [98. Validate Binary Search Tree](bfs/98.-validate-binary-search-tree.md)
 * [25. K smallest in Unsorted array](bfs/25.-k-smallest-in-unsorted-array.md)
 * [26. Kth Smallest Number in Sorted Matrix](bfs/26.-kth-smallest-number-in-sorted-matrix.md)
 * [58. Get Keys In Binary Tree Layer By Layer Zig-Zag Order](bfs/58.-get-keys-in-binary-tree-layer-by-layer-zig-zag-order.md)
