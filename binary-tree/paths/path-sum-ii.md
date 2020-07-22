@@ -45,6 +45,7 @@ class Solution {
     }
     private void helper (List<List<Integer>> res, List<Integer> prefixPath, TreeNode root, int sum) {
         if(root == null) return; 
+        //触底
         if(root.left == null && root.right == null && root.val == sum) {
             prefixPath.add(root.val);
             res.add(new ArrayList<Integer>(prefixPath));
