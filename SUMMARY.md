@@ -57,6 +57,7 @@
 
 * [Paths](binary-tree/paths/README.md)
   * [pathSum](binary-tree/paths/pathsum.md)
+  * [Path Sum II](binary-tree/paths/path-sum-ii.md)
 * [Get something](binary-tree/get-something/README.md)
   * [662.get the maximum width of binary tree](binary-tree/get-something/662.get-the-maximum-width-of-binary-tree.md)
 * [others](binary-tree/others/README.md)
