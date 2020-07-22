@@ -62,6 +62,7 @@
 * [Tree checking](binary-tree/tree-checking/README.md)
   * [47. Check If Binary Tree Is Completed](binary-tree/tree-checking/47.-check-if-binary-tree-is-completed.md)
   * [46. Check If Binary Tree Is Balanced](binary-tree/tree-checking/46.-check-if-binary-tree-is-balanced.md)
+  * [check if Binary tree is Symmetric](binary-tree/tree-checking/check-if-binary-tree-is-symmetric.md)
 * [Reconstruct Binary Tree](binary-tree/reconstruct-binary-tree/README.md)
   * [215. Reconstruct Binary Tree With Levelorder And Inorder](binary-tree/reconstruct-binary-tree/215.-reconstruct-binary-tree-with-levelorder-and-inorder.md)
   * [213. Reconstruct Binary Tree With Preorder And Inorder](binary-tree/reconstruct-binary-tree/untitled-1.md)
