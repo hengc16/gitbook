@@ -34,4 +34,12 @@ Return 3. The paths that sum to 8 are:
 
 ### 思路：
 
-* 
+暴力解： 用dfs遍历整个tree，以每个点在做同样逻辑。 时间复杂度：O\(n^2\)
+
+优化解： linear scan 这个tree， 带上prefixsum。 
+
+* 用pre-fix sum 
+  * prefix sum is a sum of the current value with all previous elements starting from the beginning of the structure.
+  * 什么时候用prefix-sum： 
+    * find a number of continuous subarrays / submatrices/ tree path that sum to target.
+
