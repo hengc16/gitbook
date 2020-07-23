@@ -30,7 +30,7 @@ Return 3. The paths that sum to 8 are:
 
 ### 题意：
 
-* 找出一共有多少条直上直下的一段path 的sum = target。
+* 找出一共有多少条直上直下的一段path 的sum = target。这里path的起点可以不是root， 终点也可以不是leaf。
 
 ### 思路：
 
@@ -63,6 +63,26 @@ class Solution {
 ### 解法\#2
 
 
+
+```text
+
+      10
+     /  \
+    5   -3
+   / \    \
+  3   2   11
+ / \   \
+3  -2   1
+
+Return 3. The paths that sum to 8 are:
+
+prefix sum = [0, 10, 15, 18, 21, 16, 17, 18, 
+pfxSUm - T = [-8, 2,  7, 11, 13,  8,  9, 10,
+
+1.  5 -> 3
+2.  5 -> 2 -> 1
+3. -3 -> 11
+```
 
 
 

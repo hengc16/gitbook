@@ -27,6 +27,10 @@ Return:
 ]
 ```
 
+### 题意：
+
+找出所以的从root-&gt; left 的path  == sum
+
 ### 思路：
 
 * 用一个arraylist来当prefix path 来存当前path的node
