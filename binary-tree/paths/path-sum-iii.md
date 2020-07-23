@@ -43,3 +43,26 @@ Return 3. The paths that sum to 8 are:
   * 什么时候用prefix-sum： 
     * find a number of continuous subarrays / submatrices/ tree path that sum to target.
 
+### 解法\#1
+
+```java
+class Solution {
+    public int pathSum(TreeNode root, int sum) {
+        if(root == null) return 0;
+        return helper(root, sum) +
+         pathSum(root.left, sum) + pathSum(root.right, sum);
+    }
+    private int helper(TreeNode root, int sum) {
+        if(root == null) return 0;
+        return (root.val == sum ? 1 : 0) +
+         helper(root.left, sum - root.val) + helper(root.right, sum - root.val);
+    }
+}
+```
+
+### 解法\#2
+
+
+
+
+
