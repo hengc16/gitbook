@@ -60,6 +60,27 @@ class Solution {
 }
 ```
 
+* top-down approach with a prefix sum
+
+```java
+//top-down with prefix sum
+class Solution {
+    public int pathSum(TreeNode root, int sum) {
+        if(root == null) return 0;
+        return helper(root, sum, 0)+ pathSum(root.left, sum) + pathSum(root.right, sum);
+    }
+    private int helper(TreeNode root, int sum, int curSum) {
+        if(root == null) return 0;
+        curSum += root.val;
+        if(curSum == sum) {
+            return 1 + helper(root.left, sum, curSum) + helper(root.right, sum, curSum);
+        }else{
+            return 0 + helper(root.left, sum, curSum) + helper(root.right, sum, curSum);
+        }
+    }
+}
+```
+
 ### 解法\#2
 
 
