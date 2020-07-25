@@ -62,6 +62,7 @@
 * [Get something](binary-tree/get-something/README.md)
   * [662.get the maximum width of binary tree](binary-tree/get-something/662.get-the-maximum-width-of-binary-tree.md)
 * [others](binary-tree/others/README.md)
+  * [1443. Minimum Time to Collect All Apples in a Tree](binary-tree/others/1443.-minimum-time-to-collect-all-apples-in-a-tree.md)
   * [512. Binary Tree Longest Consecutive Sequence](binary-tree/others/512.-binary-tree-longest-consecutive-sequence.md)
 * [Tree checking](binary-tree/tree-checking/README.md)
   * [47. Check If Binary Tree Is Completed](binary-tree/tree-checking/47.-check-if-binary-tree-is-completed.md)
