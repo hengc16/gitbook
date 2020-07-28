@@ -131,4 +131,6 @@
 ## graph
 
 * [介绍](graph/jie-shao.md)
+* [图的遍历](graph/tu-de-bian-li.md)
+* [997. Find the Town Judge](graph/997.-find-the-town-judge.md)
 
