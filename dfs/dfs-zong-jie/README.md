@@ -12,7 +12,14 @@
 
 问题就出现在了空间上，DFS的空间是一条直上直下的路径。而BFS的queue size最高可以是recursion tree上最后一层的值。因为recursion tree每层的node 可以是grow exponentially的。
 
+### backtracking:
 
+* 是一种算法，来找出所有的解（或一部分解）， 属于brute force的一种
+* 用来解决constraint satisfaction problems（如 8皇后，图着色，数独，填字）
+* 方法强调
+  * 1.incrementally builds candidates -&gt; 逐步构造
+  * 2. abandons a candidate\('backtracks'\) as soon as it determines that the candidate cannot possibly be completed -&gt; 剪枝
+* 跟brute force不同在于，backtracking强调剪枝。
 
 ### sub-set 问题：
 
