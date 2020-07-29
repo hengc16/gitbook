@@ -20,7 +20,7 @@
   * 1.incrementally builds candidates -&gt; 逐步构造
   * 2. abandons a candidate\('backtracks'\) as soon as it determines that the candidate cannot possibly be completed -&gt; 剪枝
 * 跟brute force不同在于，backtracking强调剪枝。
-
+* 
 ### sub-set 问题：
 
 subset 是
