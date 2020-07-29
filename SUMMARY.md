@@ -99,6 +99,7 @@
     * [64. All Permutations I](dfs/dfs-zong-jie/dfs-i/64.-all-permutations-i.md)
     * [73. Combinations Of Coins](dfs/dfs-zong-jie/dfs-i/73.-combinations-of-coins.md)
 * [63. All Subsets II（sub-sequence）](dfs/63.-all-subsets-ii-sub-sequence.md)
+* [641. All Subsets II of Size K](dfs/641.-all-subsets-ii-of-size-k.md)
 * [155. Combinations](dfs/155.-combinations.md)
 * [233. N Queens](dfs/233.-n-queens.md)
 
