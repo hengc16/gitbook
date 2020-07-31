@@ -102,6 +102,7 @@
 * [641. All Subsets II of Size K](dfs/641.-all-subsets-ii-of-size-k.md)
 * [155. Combinations](dfs/155.-combinations.md)
 * [factor combination](dfs/factor-combination.md)
+* [264. Keep Distance For Identical Elements](dfs/264.-keep-distance-for-identical-elements.md)
 * [233. N Queens](dfs/233.-n-queens.md)
 
 ## Recursion+Tree

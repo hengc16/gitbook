@@ -44,5 +44,47 @@ all possible combination of factors
 * 树高为factor的数量（log n）因为worst case 也是一直除以2 
 * 每层分n/ factor 个叉
 
+```java
+public class Solution {
+  public List<List<Integer>> combinations(int target) {
+    // Write your solution here
+    List<List<Integer>> res = new ArrayList<>();
+    if( target == 1) return res;
+    List<Integer> path = new ArrayList<>();
+    List<Integer> factors = getFactors(target);
+    helper(0, target, path, factors, res);
+    return res;
+  }
+  private void helper(int index, int target, List<Integer> path, List<Integer> factors, List<List<Integer>> res){
+    if(index == factors.size()) {
+      if(target == 1) {
+        res.add(new ArrayList<Integer> (path));
+      }
+      return;
+    }
+    //current level
+    //get the current level factor
+    int cur = factors.get(index);
+    for(int i = cur;  target % i == 0; i *= cur) {
+      path.add(cur);
+      helper(index + 1, target/i, path, factors, res);
+    }
+    for(int i = cur; target % i == 0; i *= cur) {
+      path.remove(path.size() - 1);
+    }
 
+    helper(index + 1, target, path, factors, res);
+  }
+  private List<Integer> getFactors(int n) {
+    List<Integer> res = new ArrayList<>();
+    for(int i = 2; i < n; i++) {
+      if(n % i == 0) {
+        res.add(i);
+      }
+    }
+    return res;
+  }
+
+}
+```
 
