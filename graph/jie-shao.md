@@ -2,6 +2,8 @@
 
 * 线性表 -》局限于一个pre 和一个next
 * tree =》 局限于只能有一个parent，也就是一对多的关系
+* tree是一种特殊的graph， v是点，边就是v-1条，并且无环。
+  * O\(V+E\) ~~ O\(n\)
 * 当我们需要**多对多的关系**时，就需要用到**graph**
 
 ### 无向图（undirected simple graph）
