@@ -140,4 +140,5 @@
 * [132. Deep Copy Undirected Graph](graph/132.-deep-copy-undirected-graph.md)
 * [457. Number of Connected Components in an Undirected Graph](graph/457.-number-of-connected-components-in-an-undirected-graph.md)
 * [497. Graph Valid Tree](graph/497.-graph-valid-tree.md)
+* [684. Redundant Connection](graph/684.-redundant-connection.md)
 
