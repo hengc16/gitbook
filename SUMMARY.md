@@ -147,4 +147,5 @@
 * [介绍](dp/jie-shao.md)
 * [一维dp](dp/yi-wei-dp/README.md)
   * [Fibonacci](dp/yi-wei-dp/fibonacci.md)
+  * [86. Longest Ascending SubArray](dp/yi-wei-dp/86.-longest-ascending-subarray.md)
 
