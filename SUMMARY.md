@@ -151,4 +151,5 @@
   * [87. Max Product Of Cutting Rope](dp/yi-wei-dp/87.-max-product-of-cutting-rope.md)
   * [Dictionary Problem](dp/yi-wei-dp/dictionary-problem.md)
   * [88. Array Hopper I](dp/yi-wei-dp/88.-array-hopper-i.md)
+  * [89. Array Hopper II](dp/yi-wei-dp/89.-array-hopper-ii.md)
 
