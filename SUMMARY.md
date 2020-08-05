@@ -152,5 +152,6 @@
   * [Dictionary Problem](dp/yi-wei-dp/dictionary-problem.md)
   * [88. Array Hopper I](dp/yi-wei-dp/88.-array-hopper-i.md)
   * [89. Array Hopper II](dp/yi-wei-dp/89.-array-hopper-ii.md)
+  * [97. Largest SubArray Sum](dp/yi-wei-dp/97.-largest-subarray-sum.md)
   * [5. Longest Palindromic Substring](dp/yi-wei-dp/5.-longest-palindromic-substring.md)
 
