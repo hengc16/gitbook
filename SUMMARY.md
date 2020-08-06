@@ -154,6 +154,6 @@
   * [89. Array Hopper II](dp/yi-wei-dp/89.-array-hopper-ii.md)
   * [97. Largest SubArray Sum](dp/yi-wei-dp/97.-largest-subarray-sum.md)
   * [5. Longest Palindromic Substring](dp/yi-wei-dp/5.-longest-palindromic-substring.md)
-* [2维dp](dp/2-wei-dp.md)
-* [100. Edit Distance](dp/100.-edit-distance.md)
+* [2维dp](dp/2-wei-dp/README.md)
+  * [100. Edit Distance](dp/2-wei-dp/100.-edit-distance.md)
 
