@@ -50,9 +50,9 @@ public class Solution {
     memo[0] = true;
     // i 为当前word的长度
     for(int i = 1; i <= input.length(); i++){
-      //从一刀不切到 i-1 每段都切一刀
+      //从一刀不切到 i-1 每段都切一刀, j=0代表一刀不切的情况。
       for(int j = 0; j < i; j++) {
-        //左大段 去看memo， 右小段去查字典
+        //左大段[0, j] 去看memo， 右小段[j,i]去查字典
         if(memo[j] && dic.contains(input.substring(j, i))) {
           //update memo
           memo[i] = true;
@@ -65,4 +65,10 @@ public class Solution {
 }
 
 ```
+
+### 时间复杂度: 
+
+这个implementation 是O\(n^3\)的。因为用到了java 里的substring api O\(n\)的。
+
+space = O\(n\)
 
