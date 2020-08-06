@@ -148,6 +148,7 @@
 * [一维dp](dp/yi-wei-dp/README.md)
   * [Fibonacci](dp/yi-wei-dp/fibonacci.md)
   * [86. Longest Ascending SubArray](dp/yi-wei-dp/86.-longest-ascending-subarray.md)
+  * [1. Longest Ascending Subsequence](dp/yi-wei-dp/1.-longest-ascending-subsequence.md)
   * [87. Max Product Of Cutting Rope](dp/yi-wei-dp/87.-max-product-of-cutting-rope.md)
   * [Dictionary Problem](dp/yi-wei-dp/dictionary-problem.md)
   * [88. Array Hopper I](dp/yi-wei-dp/88.-array-hopper-i.md)
