@@ -154,3 +154,8 @@
 * [2维dp](dp/2-wei-dp/README.md)
   * [100. Edit Distance](dp/2-wei-dp/100.-edit-distance.md)
 
+## Array
+
+* [115. Array Deduplication I](array/115.-array-deduplication-i.md)
+* [Untitled](array/untitled.md)
+
