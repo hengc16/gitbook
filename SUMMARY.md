@@ -157,5 +157,6 @@
 ## Array
 
 * [115. Array Deduplication I](array/115.-array-deduplication-i.md)
-* [Untitled](array/untitled.md)
+* [116. Array Deduplication II](array/untitled.md)
+* [117. Array Deduplication III](array/117.-array-deduplication-iii.md)
 
