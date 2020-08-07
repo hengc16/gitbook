@@ -126,10 +126,6 @@
 * [hashtable](shu-ju-jie-gou/untitled.md)
 * [heap](shu-ju-jie-gou/heap.md)
 
-## Recursion
-
-* [总结](recursion/zong-jie.md)
-
 ## graph
 
 * [介绍](graph/jie-shao.md)
