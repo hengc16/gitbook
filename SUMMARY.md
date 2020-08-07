@@ -33,8 +33,9 @@
 
 ## Linked List
 
-* [41. ReOrder Linked List](linked-list/41.-reorder-linked-list.md)
-* [34. Reverse Linked List](linked-list/untitled.md)
+* [题](linked-list/ti/README.md)
+  * [34. Reverse Linked List](linked-list/ti/untitled.md)
+  * [41. ReOrder Linked List](linked-list/ti/41.-reorder-linked-list.md)
 
 ## Binary Search Tree <a id="bst"></a>
 
@@ -48,10 +49,11 @@
 ## Heap & BFS <a id="bfs"></a>
 
 * [BFS总结](bfs/bfs-zong-jie.md)
-* [98. Validate Binary Search Tree](bfs/98.-validate-binary-search-tree.md)
-* [25. K smallest in Unsorted array](bfs/25.-k-smallest-in-unsorted-array.md)
-* [26. Kth Smallest Number in Sorted Matrix](bfs/26.-kth-smallest-number-in-sorted-matrix.md)
-* [58. Get Keys In Binary Tree Layer By Layer Zig-Zag Order](bfs/58.-get-keys-in-binary-tree-layer-by-layer-zig-zag-order.md)
+* [BFS题](bfs/bfs-ti/README.md)
+  * [58. Get Keys In Binary Tree Layer By Layer Zig-Zag Order](bfs/bfs-ti/58.-get-keys-in-binary-tree-layer-by-layer-zig-zag-order.md)
+  * [26. Kth Smallest Number in Sorted Matrix](bfs/bfs-ti/26.-kth-smallest-number-in-sorted-matrix.md)
+  * [25. K smallest in Unsorted array](bfs/bfs-ti/25.-k-smallest-in-unsorted-array.md)
+  * [98. Validate Binary Search Tree](bfs/bfs-ti/98.-validate-binary-search-tree.md)
 
 ## Binary Tree
 
@@ -98,12 +100,13 @@
     * [66. All Valid Permutations Of Parentheses I](dfs/dfs-zong-jie/dfs-i/66.-all-valid-permutations-of-parentheses-i.md)
     * [64. All Permutations I](dfs/dfs-zong-jie/dfs-i/64.-all-permutations-i.md)
     * [73. Combinations Of Coins](dfs/dfs-zong-jie/dfs-i/73.-combinations-of-coins.md)
-* [63. All Subsets II（sub-sequence）](dfs/63.-all-subsets-ii-sub-sequence.md)
-* [641. All Subsets II of Size K](dfs/641.-all-subsets-ii-of-size-k.md)
-* [155. Combinations](dfs/155.-combinations.md)
-* [factor combination](dfs/factor-combination.md)
-* [264. Keep Distance For Identical Elements](dfs/264.-keep-distance-for-identical-elements.md)
-* [233. N Queens](dfs/233.-n-queens.md)
+* [题](dfs/ti/README.md)
+  * [233. N Queens](dfs/ti/233.-n-queens.md)
+  * [264. Keep Distance For Identical Elements](dfs/ti/264.-keep-distance-for-identical-elements.md)
+  * [factor combination](dfs/ti/factor-combination.md)
+  * [155. Combinations](dfs/ti/155.-combinations.md)
+  * [641. All Subsets II of Size K](dfs/ti/641.-all-subsets-ii-of-size-k.md)
+  * [63. All Subsets II（sub-sequence）](dfs/ti/63.-all-subsets-ii-sub-sequence.md)
 
 ## Recursion+Tree
 
@@ -115,10 +118,6 @@
   * [138. Maximum Path Sum Binary Tree I](recursion+tree/recursion+tree-zong-jie/138.-maximum-path-sum-binary-tree-i.md)
   * [139. Maximum Path Sum Binary Tree II](recursion+tree/recursion+tree-zong-jie/139.-maximum-path-sum-binary-tree-ii.md)
   * [140. Maximum Path Sum Binary Tree III](recursion+tree/recursion+tree-zong-jie/140.-maximum-path-sum-binary-tree-iii.md)
-
-## Two-pointers
-
-* [Untitled](two-pointers/untitled.md)
 
 ## 数据结构
 
@@ -134,13 +133,14 @@
 ## graph
 
 * [介绍](graph/jie-shao.md)
+* [graph经典题](graph/graph-jing-dian-ti/README.md)
+  * [684. Redundant Connection](graph/graph-jing-dian-ti/684.-redundant-connection.md)
+  * [497. Graph Valid Tree](graph/graph-jing-dian-ti/497.-graph-valid-tree.md)
+  * [457. Number of Connected Components in an Undirected Graph](graph/graph-jing-dian-ti/457.-number-of-connected-components-in-an-undirected-graph.md)
+  * [132. Deep Copy Undirected Graph](graph/graph-jing-dian-ti/132.-deep-copy-undirected-graph.md)
+  * [1161. Maximum Level Sum of a Binary Tree](graph/graph-jing-dian-ti/1161.-maximum-level-sum-of-a-binary-tree.md)
+  * [997. Find the Town Judge](graph/graph-jing-dian-ti/997.-find-the-town-judge.md)
 * [图的遍历](graph/tu-de-bian-li.md)
-* [997. Find the Town Judge](graph/997.-find-the-town-judge.md)
-* [1161. Maximum Level Sum of a Binary Tree](graph/1161.-maximum-level-sum-of-a-binary-tree.md)
-* [132. Deep Copy Undirected Graph](graph/132.-deep-copy-undirected-graph.md)
-* [457. Number of Connected Components in an Undirected Graph](graph/457.-number-of-connected-components-in-an-undirected-graph.md)
-* [497. Graph Valid Tree](graph/497.-graph-valid-tree.md)
-* [684. Redundant Connection](graph/684.-redundant-connection.md)
 
 ## DP
 
