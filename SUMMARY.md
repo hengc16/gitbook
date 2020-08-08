@@ -156,6 +156,9 @@
 
 ## Array
 
+* [spiral order](array/spiral-order/README.md)
+  * [121. Spiral Order Traverse I](array/spiral-order/121.-spiral-order-traverse-i.md)
+  * [125. Rotate Matrix](array/spiral-order/125.-rotate-matrix.md)
 * [depulication系列](array/depulication-xi-lie/README.md)
   * [115. Array Deduplication I](array/depulication-xi-lie/115.-array-deduplication-i.md)
   * [116. Array Deduplication II](array/depulication-xi-lie/untitled.md)
