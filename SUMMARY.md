@@ -33,9 +33,12 @@
 
 ## Linked List
 
+* [总结](linked-list/zong-jie.md)
 * [题](linked-list/ti/README.md)
-  * [34. Reverse Linked List](linked-list/ti/untitled.md)
-  * [41. ReOrder Linked List](linked-list/ti/41.-reorder-linked-list.md)
+  * [删除](linked-list/ti/shan-chu.md)
+  * [反转](linked-list/ti/fan-zhuan/README.md)
+    * [41. ReOrder Linked List](linked-list/ti/fan-zhuan/41.-reorder-linked-list.md)
+    * [34. Reverse Linked List](linked-list/ti/fan-zhuan/untitled.md)
 
 ## Binary Search Tree <a id="bst"></a>
 
