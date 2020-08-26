@@ -38,6 +38,7 @@
   * [删除](linked-list/ti/shan-chu/README.md)
     * [remove linked list elements](linked-list/ti/shan-chu/remove-linked-list-elements.md)
     * [19. Remove Nth Node From End of List](linked-list/ti/shan-chu/19.-remove-nth-node-from-end-of-list.md)
+    * [83. Remove Duplicates from Sorted List](linked-list/ti/shan-chu/83.-remove-duplicates-from-sorted-list.md)
   * [反转](linked-list/ti/fan-zhuan/README.md)
     * [41. ReOrder Linked List](linked-list/ti/fan-zhuan/41.-reorder-linked-list.md)
     * [34. Reverse Linked List](linked-list/ti/fan-zhuan/untitled.md)
