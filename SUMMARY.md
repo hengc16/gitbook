@@ -43,6 +43,7 @@
   * [反转](linked-list/ti/fan-zhuan/README.md)
     * [41. ReOrder Linked List](linked-list/ti/fan-zhuan/41.-reorder-linked-list.md)
     * [92. Reverse Linked List II](linked-list/ti/fan-zhuan/92.-reverse-linked-list-ii.md)
+    * [24. Swap Nodes in Pairs](linked-list/ti/fan-zhuan/24.-swap-nodes-in-pairs.md)
     * [34. Reverse Linked List](linked-list/ti/fan-zhuan/untitled.md)
 
 ## Binary Search Tree <a id="bst"></a>
