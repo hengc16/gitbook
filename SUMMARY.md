@@ -42,6 +42,7 @@
     * [82. Remove Duplicates from Sorted List II](linked-list/ti/shan-chu/82.-remove-duplicates-from-sorted-list-ii.md)
   * [反转](linked-list/ti/fan-zhuan/README.md)
     * [41. ReOrder Linked List](linked-list/ti/fan-zhuan/41.-reorder-linked-list.md)
+    * [92. Reverse Linked List II](linked-list/ti/fan-zhuan/92.-reverse-linked-list-ii.md)
     * [34. Reverse Linked List](linked-list/ti/fan-zhuan/untitled.md)
 
 ## Binary Search Tree <a id="bst"></a>
