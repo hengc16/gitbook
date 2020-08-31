@@ -34,6 +34,7 @@
 ## Linked List
 
 * [stack](linked-list/stack/README.md)
+  * [31. Queue By Two Stacks](linked-list/stack/31.-queue-by-two-stacks.md)
   * [280. Sort With 2 Stacks](linked-list/stack/280.-sort-with-2-stacks.md)
 * [总结](linked-list/zong-jie.md)
 * [题](linked-list/ti/README.md)
