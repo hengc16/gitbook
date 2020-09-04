@@ -138,6 +138,7 @@
 * [stack（栈）](shu-ju-jie-gou/stack-zhan.md)
 * [hashtable](shu-ju-jie-gou/untitled.md)
 * [heap](shu-ju-jie-gou/heap.md)
+* [maxHeap的compartor](shu-ju-jie-gou/maxheap-de-compartor.md)
 
 ## graph
 
