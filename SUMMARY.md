@@ -139,6 +139,7 @@
 * [hashtable](shu-ju-jie-gou/untitled.md)
 * [heap](shu-ju-jie-gou/heap.md)
 * [maxHeap的compartor](shu-ju-jie-gou/maxheap-de-compartor.md)
+* [HashMap](shu-ju-jie-gou/hashmap.md)
 
 ## graph
 
