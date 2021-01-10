@@ -140,6 +140,7 @@
 * [heap](shu-ju-jie-gou/heap.md)
 * [maxHeap的compartor](shu-ju-jie-gou/maxheap-de-compartor.md)
 * [HashMap](shu-ju-jie-gou/hashmap.md)
+* [Segment Tree](shu-ju-jie-gou/segment-tree.md)
 
 ## graph
 
